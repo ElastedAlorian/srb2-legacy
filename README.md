@@ -1,5 +1,12 @@
-# SRB2 Legacy
+# SRB2 Galaxy
+SRB2 Galaxy is a beginner's attempt at putting some Super Mario Galaxy esque stuff in SRB2 2.1.
+Based off of SRB2 Legacy as I used SRB2bld to fetch the source code and compile a bit.
 
+Below is the OG readme.
+
+___________________
+
+# SRB2 Legacy
 SRB2 Legacy is an updated fork of [Sonic Robo Blast 2](https://srb2.org) 2.1.25.  
 The goal of SRB2 Legacy is to include essential fixes and QOL improvements seen in 2.2.
 
